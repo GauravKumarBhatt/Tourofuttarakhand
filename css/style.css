@@ -593,7 +593,7 @@ body:after {
     .sticky-wrapper.is-sticky .site-navbar .site-menu > li > a {
       color: #000 !important; }
       .sticky-wrapper.is-sticky .site-navbar .site-menu > li > a:hover, .sticky-wrapper.is-sticky .site-navbar .site-menu > li > a.active {
-        color: #C2E54F !important; }
+        color: #3091f2 !important; }
   .sticky-wrapper .shrink {
     padding-top: 10px !important;
     padding-bottom: 10px !important; }
