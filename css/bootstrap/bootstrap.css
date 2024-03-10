@@ -76,6 +76,11 @@ p {
   margin-top: 0;
   margin-bottom: 1rem; }
 
+p1 {
+  margin-top: 0;
+  display: none;
+  margin-bottom: 1rem; }
+
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
